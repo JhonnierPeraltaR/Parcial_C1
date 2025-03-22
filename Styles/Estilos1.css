@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background: rgba(78, 184, 203, 0.3) /* Green background with 30% opacity */
+}
+h3 {
+    color: #ff0000;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-shadow: 2px 2px 5px black
+}
+#Nicolas {
+    color:blueviolet
+  }
+.Parrafos_JP{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}

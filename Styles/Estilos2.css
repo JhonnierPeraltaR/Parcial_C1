@@ -1,0 +1,18 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    background: rgba(79, 181, 86, 0.3) 
+}
+h3 {
+    color: #4f37c5;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px rgb(39, 31, 31)
+}
+#Jhonnier {
+    color:rgb(37, 163, 177)
+  }
+.Parrafos_NP{
+    text-align: center;
+    color: rgb(73, 62, 62);
+    text-align: center;
+}
